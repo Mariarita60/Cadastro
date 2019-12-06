@@ -74,7 +74,7 @@ public class Cadastro extends javax.swing.JFrame {
         jButton2.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jButton2.setText("Sair");
 
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/DB/Webp.net-resizeimage.jpg"))); // NOI18N
+        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/View/images/Webp.net-resizeimage.jpg"))); // NOI18N
 
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
